@@ -1,0 +1,21 @@
+/* Theme */
+
+main {
+	background: #c8ecda;
+}
+
+.intro {
+	color: #5d3f8a;
+}
+
+.tagline {
+	color: #5b13c681;
+}
+
+.icons-social a {
+	color: #a475aaba;
+}
+
+.icons-social a svg path{
+	fill: #eff1e6;
+}

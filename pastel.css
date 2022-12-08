@@ -1,7 +1,7 @@
 /* Theme */
 
 main {
-	background: #c8ecda;
+	background-image: linear-gradient(62deg, #c8ecda 0%, #d9c6d4 100%);
 }
 
 .intro {
